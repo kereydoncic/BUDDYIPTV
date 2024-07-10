@@ -87,7 +87,7 @@ https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1',KBS World
+#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1",TV5 MONDE Asie
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
