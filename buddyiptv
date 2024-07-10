@@ -4,3 +4,6 @@ http://palawan.usbx.me:9898/bini/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="sampLE V1",Arirang
 http://palawan.usbx.me:18920/blast/221018/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="sampLE V2",Blast Cinema
+http://palawan.usbx.me:18920/blast/252437/master.m3u8
