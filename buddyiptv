@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="sample",BINI
+http://palawan.usbx.me:9898/bini/master.m3u8
