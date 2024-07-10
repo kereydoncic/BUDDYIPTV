@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1🇵🇭",BINI
+#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1",BINI
 http://palawan.usbx.me:9898/bini/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="AGENDA PH V1",A27/ABS CBN
 http://watchtv.best:80/play/live.php?mac=00:1A:79:BF:DF:C9&stream=926206&extension=ts&play_token=Xfy6rvXKB2
